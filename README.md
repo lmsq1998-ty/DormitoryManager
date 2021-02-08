@@ -1,1 +1,4 @@
-# DormitoryManager
+＃宿舍经理寝室管理系统
+根据SSM框架
+
+
